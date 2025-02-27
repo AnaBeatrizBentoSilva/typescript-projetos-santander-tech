@@ -4,7 +4,7 @@ Este repositório contém os projetos desenvolvidos durante o curso de Frontend 
 
 ## Estrutura do Repositório
 
-Cada pasta representa um projeto individual
+Cada pasta representa uma aula.
 
 ```plaintext
 .
