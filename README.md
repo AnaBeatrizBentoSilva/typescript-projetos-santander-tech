@@ -9,14 +9,20 @@ Cada pasta representa um projeto individual
 ```plaintext
 .
 ├── .vscode/
+│   └── settings.json
 ├── aula1/
 │   │── index.html
 │   │── index1.html
 │   └── index2.html
 ├── aula2/
-│   └── principais_tags_html_p2.html
+│   │── index.html
+│   └── index1.html
 ├── dist/
-│   └── tags_formatacao_texto.html
+│   │── aula1
+│   │   │── index1.js
+│   │   └── index2.js
+│   └── aula2
+│       └── index1.js
 ├── node_modules/
 ├── READE.md
 ├── README.md
